@@ -4,7 +4,7 @@
 
 VR Hopscotch** is a playful and immersive virtual reality version of the classic playground game "Hopscotch." The prototype aims to prove that traditional physical games can be successfully adapted into XR to promote physical activity, spatial awareness, and nostalgia in a fun, engaging way. It’s a great idea for XR because it encourages natural body movement (jumping and aiming) and leverages spatial tracking to enhance interaction and immersion.
 
-![Polish_20250523_143516067.png](attachment:f5be5304-dd56-41f3-a27c-434c8e71f45c:Polish_20250523_143516067.png)
+<img width="540" alt="Hopscotch" src="https://github.com/user-attachments/assets/398a2e85-9b02-448c-9d6c-8a5cbf5d12f2" />
 
 ## Features
 
